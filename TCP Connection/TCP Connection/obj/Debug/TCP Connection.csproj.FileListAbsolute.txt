@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TCP Connection\TCP Connection\bin\Debug\TCP Connection.exe.config
+C:\Users\User\source\repos\TCP Connection\TCP Connection\bin\Debug\TCP Connection.exe
+C:\Users\User\source\repos\TCP Connection\TCP Connection\bin\Debug\TCP Connection.pdb
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP Connection.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP_Connection.Form1.resources
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP_Connection.Properties.Resources.resources
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP Connection.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP Connection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP Connection.exe
+C:\Users\User\source\repos\TCP Connection\TCP Connection\obj\Debug\TCP Connection.pdb
